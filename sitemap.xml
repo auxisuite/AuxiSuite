@@ -18,8 +18,8 @@
   <url><loc>https://www.auxisuite.app/about-en.html</loc><lastmod>2026-05-20</lastmod><priority>0.7</priority></url>
 
   <!-- Blog index -->
-  <url><loc>https://www.auxisuite.app/blog/index.html</loc><lastmod>2026-05-20</lastmod><priority>0.8</priority></url>
-  <url><loc>https://www.auxisuite.app/blog/index-en.html</loc><lastmod>2026-05-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.auxisuite.app/blog/index.html</loc><lastmod>2026-05-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.auxisuite.app/blog/index-en.html</loc><lastmod>2026-05-21</lastmod><priority>0.8</priority></url>
 
   <!-- Blog posts ES -->
   <url><loc>https://www.auxisuite.app/blog/escala-glasgow.html</loc><lastmod>2026-05-20</lastmod><priority>0.8</priority></url>
@@ -27,6 +27,13 @@
   <url><loc>https://www.auxisuite.app/blog/qsofa-sofa-sepsis.html</loc><lastmod>2026-05-20</lastmod><priority>0.8</priority></url>
   <url><loc>https://www.auxisuite.app/blog/pae-nanda-noc-nic.html</loc><lastmod>2026-05-20</lastmod><priority>0.8</priority></url>
   <url><loc>https://www.auxisuite.app/blog/calculadoras-clinicas-enfermeria.html</loc><lastmod>2026-05-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.auxisuite.app/blog/escala-morse.html</loc><lastmod>2026-05-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.auxisuite.app/blog/apgar-neonatal.html</loc><lastmod>2026-05-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.auxisuite.app/blog/calculo-goteo-dosis.html</loc><lastmod>2026-05-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.auxisuite.app/blog/vias-administracion-medicamentos.html</loc><lastmod>2026-05-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.auxisuite.app/blog/signos-vitales-valores-normales.html</loc><lastmod>2026-05-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.auxisuite.app/blog/rcp-bls-enfermeria.html</loc><lastmod>2026-05-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.auxisuite.app/blog/escala-dolor-eva-nrs.html</loc><lastmod>2026-05-21</lastmod><priority>0.8</priority></url>
 
   <!-- Blog posts EN -->
   <url><loc>https://www.auxisuite.app/blog/escala-glasgow-en.html</loc><lastmod>2026-05-20</lastmod><priority>0.8</priority></url>
@@ -34,6 +41,13 @@
   <url><loc>https://www.auxisuite.app/blog/qsofa-sofa-sepsis-en.html</loc><lastmod>2026-05-20</lastmod><priority>0.8</priority></url>
   <url><loc>https://www.auxisuite.app/blog/pae-nanda-noc-nic-en.html</loc><lastmod>2026-05-20</lastmod><priority>0.8</priority></url>
   <url><loc>https://www.auxisuite.app/blog/calculadoras-clinicas-enfermeria-en.html</loc><lastmod>2026-05-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.auxisuite.app/blog/escala-morse-en.html</loc><lastmod>2026-05-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.auxisuite.app/blog/apgar-neonatal-en.html</loc><lastmod>2026-05-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.auxisuite.app/blog/calculo-goteo-dosis-en.html</loc><lastmod>2026-05-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.auxisuite.app/blog/vias-administracion-medicamentos-en.html</loc><lastmod>2026-05-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.auxisuite.app/blog/signos-vitales-valores-normales-en.html</loc><lastmod>2026-05-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.auxisuite.app/blog/rcp-bls-enfermeria-en.html</loc><lastmod>2026-05-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.auxisuite.app/blog/escala-dolor-eva-nrs-en.html</loc><lastmod>2026-05-21</lastmod><priority>0.8</priority></url>
 
   <!-- Support / Legal -->
   <url><loc>https://www.auxisuite.app/support.html</loc><lastmod>2026-05-20</lastmod><priority>0.5</priority></url>
